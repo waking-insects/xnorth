@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "validate\\": "src"
+            "validate\\": ""
         }
     },
     "version": "1.0.0"
