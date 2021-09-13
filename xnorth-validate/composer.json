@@ -1,5 +1,5 @@
 {
-    "name": "xnorth\/validate",
+    "name": "xnorth/validate",
     "description": "Package description here.",
     "license": "MIT",
     "authors": [
@@ -13,5 +13,6 @@
         "psr-4": {
             "validate\\": "src"
         }
-    }
+    },
+    "version": "1.0.0"
 }
