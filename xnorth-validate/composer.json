@@ -1,0 +1,17 @@
+{
+    "name": "xnorth\/validate",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weekup",
+            "email": "1007638465@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "validate\\": "src"
+        }
+    }
+}
